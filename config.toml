@@ -1,4 +1,4 @@
-baseURL = "https://www.zenwithxenia.org/"
+baseURL = "https://www.zenwithxenia.com/"
 languageCode = "en-us"
 title = "Zen with Xenia test"
 theme = "hugo-scroll"
