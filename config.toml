@@ -2,7 +2,7 @@ baseURL = "https://www.zenwithxenia.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Zen zone with your favourite Zen master."
 # Main Menu
 [[menu.main]]
 name = "Home"
