@@ -150,7 +150,7 @@
               <div class="singleBlog__content">
                   <p>This example Markdown file compliments of <a href="https://markdown-it.github.io/">markdown-it.github.io</a></p>
 <hr>
-<h1 id="h1-heading-8-">h1 Heading 8-)</h1>
+<h1 id="h1-heading-aaa-8-">h1 Heading AAA 8-)</h1>
 <h2 id="h2-heading">h2 Heading</h2>
 <h3 id="h3-heading">h3 Heading</h3>
 <h4 id="h4-heading">h4 Heading</h4>
@@ -190,13 +190,15 @@
 <ul>
 <li>Marker character change forces new list start:
 <ul>
-<li>Ac tristique libero volutpat at</li>
-</ul>
-<ul>
-<li>Facilisis in pretium nisl aliquet</li>
-</ul>
-<ul>
-<li>Nulla volutpat aliquam velit</li>
+<li>
+<p>Ac tristique libero volutpat at</p>
+</li>
+<li>
+<p>Facilisis in pretium nisl aliquet</p>
+</li>
+<li>
+<p>Nulla volutpat aliquam velit</p>
+</li>
 </ul>
 </li>
 </ul>
@@ -205,24 +207,14 @@
 </ul>
 <p>Ordered</p>
 <ol>
-<li>
-<p>Lorem ipsum dolor sit amet</p>
-</li>
-<li>
-<p>Consectetur adipiscing elit</p>
-</li>
-<li>
-<p>Integer molestie lorem at massa</p>
-</li>
-<li>
-<p>You can use sequential numbers&hellip;</p>
-</li>
-<li>
-<p>&hellip;or keep all the numbers as <code>1.</code></p>
-</li>
+<li>Lorem ipsum dolor sit amet</li>
+<li>Consectetur adipiscing elit</li>
+<li>Integer molestie lorem at massa</li>
+<li>You can use sequential numbers&hellip;</li>
+<li>&hellip;or keep all the numbers as <code>1.</code></li>
 </ol>
 <p>Start numbering with offset:</p>
-<ol start="57">
+<ol>
 <li>foo</li>
 <li>bar</li>
 </ol>
@@ -236,7 +228,8 @@ line 3 of code
 </code></pre>
 <p>Block code &ldquo;fences&rdquo;</p>
 <pre><code>Sample text here...
-</code></pre><p>Syntax highlighting</p>
+</code></pre>
+<p>Syntax highlighting</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">foo</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">function</span> (<span style="color:#a6e22e">bar</span>) {
   <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">bar</span><span style="color:#f92672">++</span>;
 };
@@ -310,15 +303,19 @@ line 3 of code
 <li>19^th^</li>
 <li>H~2~O</li>
 </ul>
-<h3 id="inshttpsgithubcommarkdown-itmarkdown-it-ins"><a href="https://github.com/markdown-it/markdown-it-ins">&lt;ins&gt;</a></h3>
+<h3 id="inshttpsgithubcommarkdown-itmarkdown-it-ins"><a href="https://github.com/markdown-it/markdown-it-ins"><!-- raw HTML omitted --></a></h3>
 <p>++Inserted text++</p>
-<h3 id="markhttpsgithubcommarkdown-itmarkdown-it-mark"><a href="https://github.com/markdown-it/markdown-it-mark">&lt;mark&gt;</a></h3>
+<h3 id="markhttpsgithubcommarkdown-itmarkdown-it-mark"><a href="https://github.com/markdown-it/markdown-it-mark"><!-- raw HTML omitted --></a></h3>
 <p>==Marked text==</p>
 <h3 id="footnoteshttpsgithubcommarkdown-itmarkdown-it-footnote"><a href="https://github.com/markdown-it/markdown-it-footnote">Footnotes</a></h3>
-<p>Footnote 1 link<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
-<p>Footnote 2 link<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<p>Footnote 1 link[^first].</p>
+<p>Footnote 2 link[^second].</p>
 <p>Inline footnote^[Text of inline footnote] definition.</p>
-<p>Duplicated footnote reference<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<p>Duplicated footnote reference[^second].</p>
+<p>[^first]: Footnote <strong>can have markup</strong></p>
+<pre><code>and multiple paragraphs.
+</code></pre>
+<p>[^second]: Footnote text.</p>
 <h3 id="definition-listshttpsgithubcommarkdown-itmarkdown-it-deflist"><a href="https://github.com/markdown-it/markdown-it-deflist">Definition lists</a></h3>
 <dl>
 <dt>Term 1</dt>
@@ -348,18 +345,6 @@ with lazy continuation.</p>
 <p>::: warning
 <em>here be dragons</em>
 :::</p>
-<section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>Footnote <strong>can have markup</strong></p>
-<p>and multiple paragraphs. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2" role="doc-endnote">
-<p>Footnote text. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
 
               </div>
           </div>
