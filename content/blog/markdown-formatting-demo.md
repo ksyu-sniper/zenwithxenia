@@ -13,7 +13,7 @@ This example Markdown file compliments of [markdown-it.github.io](https://markdo
 
 ## h2 Heading BBB TEST
 
-### h3 Heading
+### h3 Heading CCC TEST X
 
 #### h4 Heading
 
@@ -69,11 +69,7 @@ Unordered
 * Sub-lists are made by indenting 2 spaces:
   * Marker character change forces new list start:
     * Ac tristique libero volutpat at
-
-
     * Facilisis in pretium nisl aliquet
-
-
     * Nulla volutpat aliquam velit
 * Very easy!
 
