@@ -9,9 +9,12 @@ title = "Test 123 Post"
 type = "post"
 
 +++
-\# This is the H1 of the Test 123 Post
+# This is the Heading1 of the Test 123 Post
 
 And this is the paragraph of the post
 
 * bullet
 * example
+
+_Italic_
+**Bold**
