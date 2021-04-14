@@ -5,7 +5,7 @@ image: images/author.png
 description: this is meta description
 menu:
   main:
-    name: About
+    name: About Xenia
     URL: about
     weight: 1
 
