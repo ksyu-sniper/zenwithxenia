@@ -12,6 +12,8 @@ type = "post"
 
 And this is the paragraph of the post
 
+AAABBBCCC
+
 * bullet
 * example
 
