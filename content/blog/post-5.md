@@ -1,7 +1,7 @@
 ---
-title: How To Use Checklists To Improve Your UX
+title: post-1
 date: 2019-10-29T10:07:47.000+06:00
-image: images/post/post-2.jpg
+image: images/post/post-1.jpg
 description: this is meta description
 categories:
 - Yin Yoga
@@ -11,7 +11,7 @@ tags:
 type: post
 
 ---
-# HELLO
+# ПРОВЕРКА
 
 ## HELLO 222
 
