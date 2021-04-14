@@ -6,6 +6,10 @@ summaryLength = "10"
 theme = "liva-hugo"
 title = "Zen with Xenia"
 [[menu.footer]]
+URL = "about"
+name = "About Xenia"
+weight = 1
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 3
@@ -13,10 +17,6 @@ weight = 3
 URL = "blog"
 name = "Post"
 weight = 2
-[[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
