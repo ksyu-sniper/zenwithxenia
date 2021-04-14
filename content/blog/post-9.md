@@ -3,14 +3,8 @@ title: Test Post
 date: 2019-10-29T10:07:47.000+06:00
 image: images/post/post-6.jpg
 description: this is meta description
-categories:
-- Python
-tags:
-- Photos
-- Game
-- HTML
-- Python
-- New
+categories: []
+tags: []
 type: post
 
 ---
