@@ -12,10 +12,12 @@ menu:
 ---
 > ### **WELCOME, I AM GLAD TO SEE YOU HERE )**
 
-not saving Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+**I’m an Eindhoven-based Yoga Instructor (RYT500) with dream to be happy, healthy and young.**
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+Big part of this journey takes YOGA practice. 
 
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+Hope, you are on the same vibrations and I can help you in your journey (and back ;)!
+
+I realized looking back that my yoga-story started actually when I found My teacher. On-line, on Youtube.
 
 ![](/images/13.jpg)
