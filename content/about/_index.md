@@ -21,3 +21,5 @@ Hope, you are on the same vibrations and I can help you in your journey (and bac
 I realized looking back that my yoga-story started actually when I found My teacher. On-line, on Youtube.
 
 ![](/images/13.jpg)
+
+**Welcome to my blog, where I share with you with my passion for yoga and wellness. This is a collection of classes, pose tutorials, personal blog entries, delicious recipes, fashion and lifestyle. For full length yoga classes, visit my ....**
