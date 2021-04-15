@@ -10,7 +10,7 @@ menu:
     weight: 1
 
 ---
-> ### **WELCOME, I AM GLAD TO SEE YOU HERE )**
+> ### **WELCOME, I AM GLAD TO SEE YOU HERE!**
 
 **I’m an Eindhoven-based Yoga Instructor (RYT500) with dream to be happy, healthy and young.**
 
