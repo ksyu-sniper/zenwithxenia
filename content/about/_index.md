@@ -14,7 +14,7 @@ menu:
 
 **I’m an Eindhoven-based Yoga Instructor (RYT500) with dream to be happy, healthy and young.**
 
-Big part of this journey takes YOGA practice. 
+Big part of this journey takes YOGA practice.
 
 Hope, you are on the same vibrations and I can help you in your journey (and back ;)!
 
