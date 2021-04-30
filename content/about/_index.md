@@ -6,7 +6,7 @@ description: this is meta description
 menu:
   footer:
     URL: about
-    name: ABOUT XENIA
+    name: ABOUT
     weight: 1
   main:
     name: ABOUT XENIA
