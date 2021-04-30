@@ -6,7 +6,7 @@ description: this is meta description
 menu:
   footer:
     URL: about
-    name: About
+    name: ABOUT
     weight: 1
   main:
     name: ABOUT
