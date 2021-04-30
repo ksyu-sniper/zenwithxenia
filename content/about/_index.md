@@ -9,7 +9,7 @@ menu:
     name: About
     weight: 1
   main:
-    name: ABOUT XENIA
+    name: ABOUT
     URL: about
     weight: 1
 
