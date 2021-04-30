@@ -6,10 +6,10 @@ description: this is meta description
 menu:
   footer:
     URL: about
-    name: ABOUT
+    name: About
     weight: 1
   main:
-    name: ABOUT
+    name: About
     URL: about
     weight: 1
 

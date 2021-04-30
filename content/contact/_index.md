@@ -8,7 +8,7 @@ menu:
     name: Contact
     weight: 3
   main:
-    name: CONTACT
+    name: Contact
     URL: contact
     weight: 3
 
