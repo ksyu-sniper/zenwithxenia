@@ -5,10 +5,10 @@ description: this is meta description
 menu:
   footer:
     URL: contact
-    name: Contact
+    name: CONTACT
     weight: 3
   main:
-    name: Contact
+    name: CONTACT
     URL: contact
     weight: 3
 
