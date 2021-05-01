@@ -18,7 +18,7 @@ And this is the paragraph of the post
 
 !\[image\](../../images/post/post-1.jpg)
 
-!\[image\](/images/111.jpg)
+!\[image\](/images/111.png)
 
 <hr>
 
