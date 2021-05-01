@@ -2,7 +2,7 @@
 categories = []
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
-image = ""
+image = "/images/peach-and-grey-delicate-pastel-fitness-youtube-thumbnail-9.png"
 tags = []
 title = "Test 123 Post-(copy)"
 type = "post"
