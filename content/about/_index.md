@@ -5,8 +5,8 @@ image: images/author.png
 description: this is meta description
 menu:
   footer:
-    URL: about
     name: About
+    URL: about
     weight: 1
   main:
     name: ABOUT
