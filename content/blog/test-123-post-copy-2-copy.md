@@ -2,7 +2,6 @@
 categories = []
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
-draft = true
 image = "/images/222_600-900-pinterest-check.png"
 tags = []
 title = "Test 123 Post-(copy 3)"
