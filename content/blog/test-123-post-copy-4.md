@@ -1,9 +1,9 @@
 +++
-categories = ["FREE YOGA VIDEOS"]
+categories = ["FOOD"]
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
 draft = true
-image = "/images/222_600-900-pinterest-check.png"
+image = "/images/post/post-6.jpg"
 tags = []
 title = "Test 123 Post-(copy 4)"
 type = "post"
@@ -24,8 +24,6 @@ And this is the paragraph of the post
 !\[\](/images/111.png)
 
 !\[\](/images/111.png)
-
-![](/images/222_600-900-pinterest-check.png)
 
 <hr>
 
