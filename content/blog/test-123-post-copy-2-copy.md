@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["FREE YOGA VIDEOS"]
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
 image = "/images/222_600-900-pinterest-check.png"
