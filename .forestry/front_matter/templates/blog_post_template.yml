@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/test-123-post-copy.md
 - content/blog/test-123-post.md
