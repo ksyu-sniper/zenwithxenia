@@ -7,6 +7,6 @@ name = "Free Yoga Videos"
 weight = 1
 [menu.main]
 name = "FREE YOGA VIDEOS"
-weight = 2
+weight = 1
 
 +++

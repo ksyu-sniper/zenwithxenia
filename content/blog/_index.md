@@ -9,6 +9,6 @@ menu:
   main:
     name: BLOG
     URL: blog
-    weight: 1
+    weight: 2
 
 ---
