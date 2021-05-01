@@ -2,7 +2,7 @@
 categories = []
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
-image = "/images/teal-terracotta-animated-yoga-pinterest-pin.mp4"
+image = "/images/111.png"
 tags = []
 title = "Test 123 Post-(copy 2)"
 type = "post"
