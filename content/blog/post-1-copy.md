@@ -1,5 +1,5 @@
 +++
-categories = ["Yin Yoga"]
+categories = []
 date = 2019-10-29T04:07:47Z
 description = "this is meta description"
 image = "/images/featured-post/post-2.jpg"
