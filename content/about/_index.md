@@ -16,14 +16,14 @@ menu:
 ---
 > ### **WELCOME, I AM GLAD TO SEE YOU HERE!**
 
-**I’m an Eindhoven-based Yoga Instructor (RYT500) with dream to be happy, healthy and young.**
+**I’m an Eindhoven-based Yoga Instructor (RYT500) with a dream to be happy, healthy, and young.**
 
-Big part of this journey takes YOGA practice.
+A big part of this journey takes YOGA practice.
 
-Hope, you are on the same vibrations and I can help you in your journey (and back ;)!
+I Hope, you are on the same vibrations and I can help you in your journey (and back ;)!
 
-I realized looking back that my yoga-story started actually when I found My teacher. On-line, on Youtube.
+I realized looking back that my yoga story started actually when I found My teacher. Online, on Youtube.
 
-![](/images/13.jpg)
+![](/images/photo_2021-04-30_19-51-11.jpg)
 
 **Welcome to my blog, where I share with you with my passion for yoga and wellness. This is a collection of classes, pose tutorials, personal blog entries, delicious recipes, fashion and lifestyle. For full length yoga classes, visit my ....**
