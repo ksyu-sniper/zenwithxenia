@@ -7,7 +7,7 @@ menu:
     name: Book Cacao Ceremony
     weight: 3
   main:
-    name: Book Cacao Ceremony
+    name: Cacao Ceremony
     URL: contact
     weight: 3
 
