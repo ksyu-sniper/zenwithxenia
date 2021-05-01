@@ -6,7 +6,7 @@ title = "blog-2"
 name = "Free Yoga Videos"
 weight = 1
 [menu.main]
-name = "FREE YOGA VIDEOS"
-weight = 1
+name = "FREEBIES"
+weight = 2
 
 +++
