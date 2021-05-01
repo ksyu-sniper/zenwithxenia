@@ -4,13 +4,13 @@ date: 2019-10-29T13:49:23.000+06:00
 image: images/author.png
 description: this is meta description
 menu:
-  main:
-    name: ABOUT
-    URL: about
-    weight: 1
   footer:
     URL: about
     name: About
+    weight: 1
+  main:
+    name: ABOUT
+    URL: about
     weight: 1
 
 ---
