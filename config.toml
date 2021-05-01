@@ -5,18 +5,6 @@ paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
 title = "Zen with Xenia"
-[[menu.footer]]
-URL = "about"
-name = "About Xenia"
-weight = 1
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.footer]]
-URL = "blog"
-name = "Post"
-weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
