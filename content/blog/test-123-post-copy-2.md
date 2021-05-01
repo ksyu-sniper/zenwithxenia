@@ -24,6 +24,8 @@ And this is the paragraph of the post
 
 !\[\](/images/111.png)
 
+![](/images/111.png)
+
 <hr>
 
 AAABBBCCC
