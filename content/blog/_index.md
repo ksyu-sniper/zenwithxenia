@@ -7,7 +7,7 @@ menu:
     name: Blog
     weight: 2
   main:
-    name: BLOG
+    name: Blog
     URL: blog
     weight: 2
 
