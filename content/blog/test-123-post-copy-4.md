@@ -2,7 +2,6 @@
 categories = ["FOOD"]
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
-draft = true
 image = "/images/post/post-6.jpg"
 tags = []
 title = "Test 123 Post-(copy 4)"
