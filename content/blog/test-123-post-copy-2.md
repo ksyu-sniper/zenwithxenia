@@ -12,9 +12,11 @@ type = "post"
 
 And this is the paragraph of the post
 
+\##### Image
 
+!\[image\](../../images/post/post-1.jpg)
 
-
+<hr>
 
 AAABBBCCC
 
