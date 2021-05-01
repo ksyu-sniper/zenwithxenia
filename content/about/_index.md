@@ -7,11 +7,11 @@ menu:
   footer:
     name: About
     URL: about
-    weight: 1
+    weight: 4
   main:
     name: ABOUT
     URL: about
-    weight: 1
+    weight: 3
 
 ---
 > ### **WELCOME, I AM GLAD TO SEE YOU HERE!**

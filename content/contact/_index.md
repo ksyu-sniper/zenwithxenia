@@ -5,11 +5,11 @@ description: this is meta description
 menu:
   footer:
     name: Book Cacao Ceremony
-    weight: 3
+    weight: 2
   main:
     name: CONTACT
     URL: contact
-    weight: 3
+    weight: 4
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea

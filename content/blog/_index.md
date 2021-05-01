@@ -5,10 +5,10 @@ description: this is meta description
 menu:
   footer:
     name: Blog
-    weight: 2
+    weight: 3
   main:
     name: BLOG
     URL: blog
-    weight: 2
+    weight: 1
 
 ---
