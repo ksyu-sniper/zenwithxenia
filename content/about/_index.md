@@ -9,7 +9,7 @@ menu:
     URL: about
     weight: 1
   main:
-    name: About
+    name: ABOUT
     URL: about
     weight: 1
 
