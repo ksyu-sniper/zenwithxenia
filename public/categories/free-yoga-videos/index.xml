@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FREE YOGA VIDEOS on Zen with Xenia</title>
+    <link>https://www.zenwithxenia.com/categories/free-yoga-videos/</link>
+    <description>Recent content in FREE YOGA VIDEOS on Zen with Xenia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Apr 2021 15:00:00 +0000</lastBuildDate><atom:link href="https://www.zenwithxenia.com/categories/free-yoga-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 123 Post</title>
+      <link>https://www.zenwithxenia.com/blog/test-123-post/</link>
+      <pubDate>Tue, 13 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.zenwithxenia.com/blog/test-123-post/</guid>
+      <description>Let&amp;rsquo;s see if preview works fine And this is the paragraph of the post</description>
+    </item>
+    
+    <item>
+      <title>Test 123 Post-(copy 2)</title>
+      <link>https://www.zenwithxenia.com/blog/test-123-post-copy-2/</link>
+      <pubDate>Tue, 13 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.zenwithxenia.com/blog/test-123-post-copy-2/</guid>
+      <description>Let&amp;rsquo;s see if preview works fine And this is the paragraph of the post</description>
+    </item>
+    
+    <item>
+      <title>Test 123 Post-(copy 3)</title>
+      <link>https://www.zenwithxenia.com/blog/test-123-post-copy-2-copy/</link>
+      <pubDate>Tue, 13 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.zenwithxenia.com/blog/test-123-post-copy-2-copy/</guid>
+      <description>Let&amp;rsquo;s see if preview works fine And this is the paragraph of the post</description>
+    </item>
+    
+    <item>
+      <title>Test 123 Post-(copy)</title>
+      <link>https://www.zenwithxenia.com/blog/test-123-post-copy/</link>
+      <pubDate>Tue, 13 Apr 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.zenwithxenia.com/blog/test-123-post-copy/</guid>
+      <description>Let&amp;rsquo;s see if preview works fine And this is the paragraph of the post</description>
+    </item>
+    
+  </channel>
+</rss>

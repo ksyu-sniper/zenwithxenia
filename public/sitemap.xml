@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zenwithxenia.com/categories/</loc>
+    <lastmod>2021-04-13T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/categories/food/</loc>
+    <lastmod>2021-04-13T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/categories/free-yoga-videos/</loc>
+    <lastmod>2021-04-13T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zenwithxenia.com/blog/test-123-post/</loc>
     <lastmod>2021-04-13T15:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +18,9 @@
     <lastmod>2021-04-13T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zenwithxenia.com/blog/test-123-post-copy-2-copy/</loc>
+    <lastmod>2021-04-13T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/blog/test-123-post-copy-4/</loc>
     <lastmod>2021-04-13T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zenwithxenia.com/blog/test-123-post-copy/</loc>
@@ -67,7 +79,5 @@
   </url><url>
     <loc>https://www.zenwithxenia.com/tags/top-back-shoulders-relief/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://www.zenwithxenia.com/categories/</loc>
   </url>
 </urlset>
