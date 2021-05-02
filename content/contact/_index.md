@@ -11,23 +11,17 @@ menu:
     weight: 2
 
 ---
-#### <br/>
+#### <**_p_**>
 
-#### <br/>
-
-#### <br/>
-
-#### <br/>
-
-#### <br/>
+#### <**_p_**>
 
 #### Want to get a Magical experience of the Cacao Ceremony?
 
-##### <br/>
+#### <**_p_**>
 
-#### <br/>
+#### <**_p_**>
 
-#### <br/>
+#### <**_p_**>
 
 ##### Contact /Ask To Join Xenia’s Mailing List For Upcoming Events (Eindhoven, Netherlands)!
 
