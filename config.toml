@@ -8,13 +8,13 @@ title = "Zen with Xenia"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Xenia"
 copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
 description = "This is meta description"
 email = "demo@email.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
-location = "Dhaka, Bangladedsh"
+location = "Netherlands"
 logo = "images/logo.png"
 mobile = "0124857985320"
 [params.cookies]
