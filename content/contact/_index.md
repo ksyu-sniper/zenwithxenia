@@ -19,12 +19,20 @@ menu:
 
 #### <hr>
 
-### Want to get a Magical experience of the Cacao Ceremony?
+#### <hr>
 
-Contact /Ask To Join Xenia’s Mailing List For Upcoming Events (Eindhoven, Netherlands)!
+#### <hr>
 
-Want to get a Magical experience of the Cacao Ceremony?
+#### <hr>
 
-> text that shoul be here , 2-3 rows/
+#### <hr>
 
-### Contact /Ask To Join Xenia’s Mailing List For Upcoming Cacao Ceremony Sessions (Eindhoven, Netherlands)!
+#### Want to get a Magical experience of the Cacao Ceremony?
+
+##### Contact /Ask To Join Xenia’s Mailing List For Upcoming Events (Eindhoven, Netherlands)!
+
+##### Want to get a Magical experience of the Cacao Ceremony?
+
+> ##### text that shoul be here , 2-3 rows/
+
+### Contact below & join Xenia’s Mailing List For Upcoming Cacao Ceremony Sessions!
