@@ -8,7 +8,6 @@ tags:
 - top back & shoulders relief
 - " deep stretch"
 type: post
-draft: true
 
 ---
 # ПРОВЕРКА
