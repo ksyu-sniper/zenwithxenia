@@ -5,8 +5,5 @@ title = "blog-2"
 [menu.footer]
 name = "Free Yoga Videos"
 weight = 1
-[menu.main]
-name = "FREE PROGRAMS"
-weight = 2
 
 +++
