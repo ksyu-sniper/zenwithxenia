@@ -11,21 +11,7 @@ menu:
     weight: 2
 
 ---
-#### <hr>
-
-#### <hr>
-
-#### <hr>
-
-#### <hr>
-
-#### <hr>
-
-#### <hr>
-
-#### <hr>
-
-#### <hr>
+#### `<br/>`
 
 #### Want to get a Magical experience of the Cacao Ceremony?
 
