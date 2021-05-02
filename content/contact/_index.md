@@ -40,3 +40,7 @@ menu:
 > ##### text that shoul be here , 2-3 rows/
 
 ### Contact below & join Xenia’s Mailing List For Upcoming Cacao Ceremony Sessions!
+
+### Contact below & join Xenia’s Mailing List For Upcoming Cacao Ceremony Sessions!
+
+### Contact below & join Xenia’s Mailing List For Upcoming Cacao Ceremony Sessions!
