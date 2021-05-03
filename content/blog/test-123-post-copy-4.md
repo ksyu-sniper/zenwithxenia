@@ -1,5 +1,5 @@
 +++
-categories = ["FOOD"]
+categories = ["\"WITCHY\" TIPS", "FOOD"]
 date = 2021-04-13T15:00:00Z
 description = "Description section of the post"
 image = "/images/post/post-6.jpg"
