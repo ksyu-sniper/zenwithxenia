@@ -17,9 +17,9 @@ weight = 4
 
 * **Do you want to live happy & healthy?**
 * **Are you curious, open-minded and maybe a little bit crazy?))**
-* **Are you Ready for the ACTIONS to this direction and feel ?**
+* **Are you Ready for the ACTIONS ?**
 
-**then...**
+                         **then...**
 
 **YOU'VE COME TO THE RIGHT PLACE.**
 
