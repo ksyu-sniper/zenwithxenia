@@ -23,6 +23,6 @@ weight = 4
 
 **YOU'VE COME TO THE RIGHT PLACE.**
 
-First time visiting Zen with Xenia? [**START HERE!**](https://etnn3joycm6veg.instant.forestry.io/blog/post-1/)
+First time visiting **Zen with Xenia?** [**START HERE!**](https://etnn3joycm6veg.instant.forestry.io/blog/post-1/)
 
 ### **WELCOME, I AM GLAD TO SEE YOU HERE!**
