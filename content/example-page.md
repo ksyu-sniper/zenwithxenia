@@ -6,6 +6,9 @@ image = ""
 tags = []
 title = "Example page"
 type = ""
+[menu.main]
+name = "Page 1"
+weight = 6
 
 +++
 ABC
