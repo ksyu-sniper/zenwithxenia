@@ -1,28 +1,18 @@
 ---
-title: "Flamingo post"
-date: 2021-05-02T10:19:48+06:00
-draft: false
-
-# post thumb
-image: "images/featured-post/post-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories:
-  - "Android And Gaming"
+title: Flamingo post
+date: 2021-05-02T10:19:48.000+06:00
+image: images/featured-post/post-1.jpg
+description: this is meta description
+categories: []
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- React
+- Python
+- New
+type: featured
 
-# post type
-type: "featured"
 ---
-
 # Heading 1
 ## Heading 2
 ### Heading 3
