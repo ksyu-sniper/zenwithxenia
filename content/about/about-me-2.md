@@ -11,14 +11,18 @@ name = "ABOUT 2"
 weight = 4
 
 +++
-> ### **WELCOME, I AM GLAD TO SEE YOU HERE!**
+**- Hi, I am Xenia! -**
 
-**I’m an Eindhoven-based Yoga Instructor (RYT500) with a dream to be happy, healthy, and young.**
+**And let me ask you something...**
 
-<< short version test >>
+* **Do you want to live happy & healthy?**
+* **Are you curious, open-minded and maybe a little bit crazy?))**
+* **Are you Ready for the ACTIONS to this direction and feel ?**
 
-[![](/images/photo_2021-04-30_19-51-11.jpg)](https://www.instagram.com/zenwithxenia/ "follow along @zenwithxenia")
+**then...**
 
-**Welcome...**
+**YOU'VE COME TO THE RIGHT PLACE.**
 
-**For full length yoga classes, visit my ....**
+First time visiting Zen with Xenia? [**START HERE!**](http://thecontentbug.com/start-here/)
+
+### **WELCOME, I AM GLAD TO SEE YOU HERE!**
