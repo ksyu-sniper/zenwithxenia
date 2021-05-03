@@ -15,14 +15,12 @@ weight = 4
 
 And let me ask you something...
 
-* Do you want to live **_happy & healthy_?** 
+* Do you want to live **_happy & healthy_?**
 * Do you deeply want **to take care of yourself?**
 * Are you curious, open-minded, and maybe a little bit crazy?))
-* Are you Ready for the **ACTIONS?**
+* Are you Ready for the **ACTIONS?**               then...
 
-                            
-
-                     then...
+then...
 
 **YOU'VE COME TO THE RIGHT PLACE.**
 
