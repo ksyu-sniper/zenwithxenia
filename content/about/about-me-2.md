@@ -3,6 +3,9 @@ date = 2019-10-29T07:49:23Z
 description = "this is meta description"
 image = "images/author.png"
 title = "About Me 2"
+[menu.footer]
+name = "About 2"
+weight = 5
 [menu.main]
 name = "ABOUT 2"
 weight = 4

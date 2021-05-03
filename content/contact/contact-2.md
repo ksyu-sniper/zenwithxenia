@@ -2,6 +2,8 @@
 date = 2019-10-29T07:49:23Z
 description = "this is meta description"
 title = "Contact 2"
+[menu.footer]
+weight = 6
 [menu.main]
 name = "CONTACT 2"
 weight = 5
