@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zenwithxenia.com/categories/android-and-gaming/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
     <loc>https://www.zenwithxenia.com/categories/</loc>
-    <lastmod>2021-04-13T15:00:00+00:00</lastmod>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/blog/post-1/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/tags/game/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/tags/new/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/tags/photos/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/tags/python/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/tags/react/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/tags/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/</loc>
+    <lastmod>2021-05-02T10:19:48+06:00</lastmod>
   </url><url>
     <loc>https://www.zenwithxenia.com/categories/food/</loc>
     <lastmod>2021-04-13T15:00:00+00:00</lastmod>
@@ -26,11 +53,11 @@
     <loc>https://www.zenwithxenia.com/blog/test-123-post-copy/</loc>
     <lastmod>2021-04-13T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zenwithxenia.com/</loc>
-    <lastmod>2021-04-13T15:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zenwithxenia.com/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://www.zenwithxenia.com/about/about-me-2/</loc>
+    <lastmod>2019-10-29T07:49:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zenwithxenia.com/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
@@ -69,9 +96,6 @@
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://www.zenwithxenia.com/blog/post-1-copy/</loc>
-    <lastmod>2019-10-29T04:07:47+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zenwithxenia.com/tags/</loc>
     <lastmod>2019-10-29T04:07:47+00:00</lastmod>
   </url><url>
     <loc>https://www.zenwithxenia.com/blog/post-9/</loc>

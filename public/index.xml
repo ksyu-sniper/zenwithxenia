@@ -6,7 +6,16 @@
     <description>Recent content on Zen with Xenia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 15:00:00 +0000</lastBuildDate><atom:link href="https://www.zenwithxenia.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 10:19:48 +0600</lastBuildDate><atom:link href="https://www.zenwithxenia.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flamingo post</title>
+      <link>https://www.zenwithxenia.com/blog/post-1/</link>
+      <pubDate>Sun, 02 May 2021 10:19:48 +0600</pubDate>
+      
+      <guid>https://www.zenwithxenia.com/blog/post-1/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
     <item>
       <title>Test 123 Post</title>
       <link>https://www.zenwithxenia.com/blog/test-123-post/</link>
@@ -50,6 +59,15 @@
       
       <guid>https://www.zenwithxenia.com/blog/test-123-post-copy/</guid>
       <description>Let&amp;rsquo;s see if preview works fine And this is the paragraph of the post</description>
+    </item>
+    
+    <item>
+      <title>About Me 2</title>
+      <link>https://www.zenwithxenia.com/about/about-me-2/</link>
+      <pubDate>Tue, 29 Oct 2019 07:49:23 +0000</pubDate>
+      
+      <guid>https://www.zenwithxenia.com/about/about-me-2/</guid>
+      <description>WELCOME, I AM GLAD TO SEE YOU HERE!  I’m an Eindhoven-based Yoga Instructor (RYT500) with a dream to be happy, healthy, and young.</description>
     </item>
     
     <item>
