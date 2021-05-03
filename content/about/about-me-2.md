@@ -13,16 +13,19 @@ weight = 4
 +++
 **- Hi, I am Xenia! -**
 
-**And let me ask you something...**
+And let me ask you something...
 
-* **Do you want to live happy & healthy?**
-* **Are you curious, open-minded and maybe a little bit crazy?))**
-* **Are you Ready for the ACTIONS ?**
+* Do you want to live **_happy & healthy_?** 
+* Do you deeply want **to take care of yourself?**
+* Are you curious, open-minded, and maybe a little bit crazy?))
+* Are you Ready for the **ACTIONS?**
 
-                         **then...**
+                            
+
+                     then...
 
 **YOU'VE COME TO THE RIGHT PLACE.**
 
 First time visiting **Zen with Xenia?** [**START HERE!**](https://etnn3joycm6veg.instant.forestry.io/blog/post-1/)
 
-### **WELCOME, I AM GLAD TO SEE YOU HERE!**
+### 
